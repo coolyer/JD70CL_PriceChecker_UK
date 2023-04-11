@@ -5,7 +5,7 @@ This Python script searches multiple online retailers for the price of Jack Dani
 # Installation
 Clone the repository to your local machine or download the ZIP file and extract its contents.
 Install the required libraries using pip. Open the terminal and run the following command:
-pip install selenium webdriver_manager beautifulsoup4
+pip install selenium webdriver_manager
     Install the latest version of the Chrome browser.
 
 # Usage
