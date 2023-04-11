@@ -14,7 +14,7 @@ Open the terminal and navigate to the directory containing the script.
 
 Run the following command:
 
-python jackdaniels.py
+python Jack daniles 1L prices.py
 
 This will launch the script and start searching for the product on the retailers' websites.
 
